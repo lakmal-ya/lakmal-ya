@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**lakmal-ya/lakmal-ya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋 I'm **Dulanjana Lakmal**
 
 Here are some ideas to get you started:
 
@@ -11,5 +8,4 @@ Here are some ideas to get you started:
     📬 How to reach me: dulanjanalakmal@gmail.com
     🚺 Pronouns: he/him
     💙 Thank you for reading my bio! Follow me with the links below & let's collaborate!
-    
--->
+ 
