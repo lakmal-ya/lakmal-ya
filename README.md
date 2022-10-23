@@ -1,4 +1,5 @@
 ### Hi there 👋 I'm **Dulanjana Lakmal**
+<hr>
 
     👀 I’m currently interested in DevOps Engineering
     📚 I’m currently learning Python, Terraform, Docker & AWS
