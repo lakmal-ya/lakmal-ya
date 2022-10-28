@@ -22,7 +22,8 @@
 <!-- ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)  -->
 
 <!-- ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)  -->
-<!-- ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker) -->
+<!-- 
+ ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)-->
 
 
 <br><br>
