@@ -17,10 +17,6 @@ I am a highly motivated and skilled DevOps Engineer with a proven track record o
 - 📝 I regularly write articles on [https://medium.com/@dulanjanalakmal](https://medium.com/@dulanjanalakmal)
 
 - 📫 How to reach me **dulanjanalakma@gmail.com**
-    
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
