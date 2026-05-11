@@ -27,10 +27,10 @@ I'm a **Senior Cloud Solutions Engineer with 7+ years of experience** designing,
 
 - **Currently**: Senior Cloud Solutions Engineer at **Sitecore** (Aug 2025 – Present)
 - **Previously**: Cloud Operations Engineer at **EY** (2023–2025), DevOps Engineer at **KeenEye** & **EFutures**
-- **Multi-cloud**: Production experience across **AWS, Azure, and GCP** — architecture, cost optimisation, and security hardening
-- **IaC-first mindset**: Everything in code — Terraform, CloudFormation, Ansible
+- **Multi-cloud**: Production experience across **AWS, Azure, and GCP** - architecture, cost optimisation, and security hardening
+- **IaC-first mindset**: Everything in code - Terraform, CloudFormation, Ansible
 - **GitOps practitioner**: ArgoCD-driven Kubernetes deployments, fully automated delivery pipelines
-- **Technical writer**: Publishing on [Medium](https://medium.com/@dulanjanalakmal) — MCP setup, Azure alerts automation, Linux security, AWS automation
+- **Technical writer**: Publishing on [Medium](https://medium.com/@dulanjanalakmal) - MCP setup, Azure alerts automation, Linux security, AWS automation
 
 ---
 
