@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Dulanjana+Lakmal;Senior+Cloud+Solutions+Engineer;AWS+%7C+Azure+%7C+GCP+%7C+Kubernetes;6%2B+Years+Building+Cloud+Infrastructure" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Dulanjana+Lakmal;Senior+Cloud+Solutions+Engineer;AWS+%7C+Azure+%7C+GCP+%7C+Kubernetes;7%2B+Years+Building+Cloud+Infrastructure" alt="Typing SVG" />
 
 <br/>
 
 **Senior Cloud Solutions Engineer · Multi-Cloud Architect · Open Source Advocate**
 
-*Galle, Sri Lanka · Currently @ IGT1 Lanka · Open to remote opportunities*
+*Induruwa, Sri Lanka · Currently @ Sitecore · Open to remote opportunities*
 
 [![Website](https://img.shields.io/badge/Portfolio-dulanjanalakmal.us-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dulanjanalakmal.us)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dulanjanalakmal)
@@ -23,9 +23,9 @@
 
 ## About Me
 
-I'm a **Senior Cloud Solutions Engineer with 6+ years of experience** designing, automating, and operating multi-cloud infrastructure at scale. I specialise in turning complex infrastructure problems into elegant, reproducible solutions using IaC and GitOps practices.
+I'm a **Senior Cloud Solutions Engineer with 7+ years of experience** designing, automating, and operating multi-cloud infrastructure at scale. I specialise in turning complex infrastructure problems into elegant, reproducible solutions using IaC and GitOps practices.
 
-- **Currently**: Senior Cloud Solutions Engineer at **IGT1 Lanka** (Aug 2025 – Present)
+- **Currently**: Senior Cloud Solutions Engineer at **Sitecore** (Aug 2025 – Present)
 - **Previously**: Cloud Operations Engineer at **EY** (2023–2025), DevOps Engineer at **KeenEye** & **EFutures**
 - **Multi-cloud**: Production experience across **AWS, Azure, and GCP** — architecture, cost optimisation, and security hardening
 - **IaC-first mindset**: Everything in code — Terraform, CloudFormation, Ansible
@@ -38,11 +38,12 @@ I'm a **Senior Cloud Solutions Engineer with 6+ years of experience** designing,
 
 <div align="left">
 
-![RHCSA](https://img.shields.io/badge/RHCSA-Red_Hat_2024-EE0000?style=flat-square&logo=redhat&logoColor=white)
-![AWS CCP](https://img.shields.io/badge/AWS-Cloud_Practitioner_2023-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Azure Fundamentals](https://img.shields.io/badge/Azure-Fundamentals_2023-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![GCP Fundamentals](https://img.shields.io/badge/GCP-Fundamentals_2023-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![GitOps](https://img.shields.io/badge/LFS169-GitOps_Linux_Foundation_2023-003366?style=flat-square&logo=linuxfoundation&logoColor=white)
+![Azure Fundamentals](https://img.shields.io/badge/Azure-Fundamentals_2025-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Terraform Associate](https://img.shields.io/badge/HashiCorp-Terraform_Associate_002_2023-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![AWS SAA](https://img.shields.io/badge/AWS-Solutions_Architect_Associate_2022-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![RHCSA](https://img.shields.io/badge/RHCSA-Red_Hat_2019-EE0000?style=flat-square&logo=redhat&logoColor=white)
+![CCNA](https://img.shields.io/badge/Cisco-CCNA_2019-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![GCP Fundamentals](https://img.shields.io/badge/GCP-Fundamentals_2019-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 
 </div>
 
@@ -52,7 +53,7 @@ I'm a **Senior Cloud Solutions Engineer with 6+ years of experience** designing,
 
 | Role | Company | Period |
 |---|---|---|
-| Senior Cloud Solutions Engineer | **IGT1 Lanka** | Aug 2025 – Present |
+| Senior Cloud Solutions Engineer | **Sitecore** | Aug 2025 – Present |
 | Cloud Operations Engineer | **EY** | 2023 – 2025 |
 | DevOps Engineer | **KeenEye** | 2022 |
 | DevOps Engineer | **EFutures** | 2021 – 2022 |
